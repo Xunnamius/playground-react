@@ -2,6 +2,6 @@ build/
 node_modules/
 .next
 .env
-.vscode/launch.json
+.vscode
 *.pem
 

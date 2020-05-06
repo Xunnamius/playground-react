@@ -3,7 +3,7 @@
   "description": "Let us frolick amongst the components",
   "repository": {
     "type": "git",
-    "url": "https://git.xunn.io/Xunnamius/react-playground"
+    "url": "https://github.com/Xunnamius/react-playground"
   },
   "version": "0.0.1",
   "scripts": {
